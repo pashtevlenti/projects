@@ -20,4 +20,6 @@ public class NextNumbers implements Numbers{
         int result = current.value;
         return result;
     }
+
+
 }
