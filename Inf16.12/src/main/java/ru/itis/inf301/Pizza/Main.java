@@ -10,6 +10,7 @@ public class Main{
 
         Cook cook1 = new Cook("Паша",Gender.male);
         Cook cook2 = new Cook("Роберт",Gender.female);
+        System.out.println();
 
 
 
